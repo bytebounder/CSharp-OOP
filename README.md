@@ -29,3 +29,16 @@
           <a href="" >:link:</a>
   </td>
 </tr>
+  
+<tr>
+  <td>:two:</td>
+  <th>Encapsulation</th>
+  <td>
+      Solutions: 
+          <a href="" >:link:</a>
+  </td>
+  <td> 
+      Solutions: 
+          <a href="" >:link:</a>
+  </td>
+</tr>
