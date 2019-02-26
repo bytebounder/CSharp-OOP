@@ -1,0 +1,11 @@
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\LAB\01.RhombusOfStars\bin\Debug\netcoreapp2.1\01.RhombusOfStars.deps.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\LAB\01.RhombusOfStars\bin\Debug\netcoreapp2.1\01.RhombusOfStars.runtimeconfig.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\LAB\01.RhombusOfStars\bin\Debug\netcoreapp2.1\01.RhombusOfStars.runtimeconfig.dev.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\LAB\01.RhombusOfStars\bin\Debug\netcoreapp2.1\01.RhombusOfStars.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\LAB\01.RhombusOfStars\bin\Debug\netcoreapp2.1\01.RhombusOfStars.pdb
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\LAB\01.RhombusOfStars\obj\Debug\netcoreapp2.1\01.RhombusOfStars.csprojAssemblyReference.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\LAB\01.RhombusOfStars\obj\Debug\netcoreapp2.1\01.RhombusOfStars.csproj.CoreCompileInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\LAB\01.RhombusOfStars\obj\Debug\netcoreapp2.1\01.RhombusOfStars.AssemblyInfoInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\LAB\01.RhombusOfStars\obj\Debug\netcoreapp2.1\01.RhombusOfStars.AssemblyInfo.cs
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\LAB\01.RhombusOfStars\obj\Debug\netcoreapp2.1\01.RhombusOfStars.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\LAB\01.RhombusOfStars\obj\Debug\netcoreapp2.1\01.RhombusOfStars.pdb
