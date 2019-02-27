@@ -22,6 +22,19 @@
   <th>Working with Abstraction</th>
   <td>
       Solutions: 
+          <a href="https://github.com/ErayErol/CSharp-OOP/tree/master/2019.02.25%20-%20C%23%20OPP/01.%20Working%20with%20Abstraction/LAB" >:link:</a>
+  </td>
+  <td> 
+      Solutions: 
+          <a href="" >:link:</a>
+  </td>
+</tr>
+  
+<tr>
+  <td>:two:</td>
+  <th>Encapsulation</th>
+  <td>
+      Solutions: 
           <a href="" >:link:</a>
   </td>
   <td> 
