@@ -1,0 +1,11 @@
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.deps.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.runtimeconfig.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.runtimeconfig.dev.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.pdb
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.csprojAssemblyReference.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.csproj.CoreCompileInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.AssemblyInfoInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.AssemblyInfo.cs
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.pdb

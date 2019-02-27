@@ -1,0 +1,11 @@
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.deps.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.dev.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.pdb
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.csprojAssemblyReference.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.csproj.CoreCompileInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfoInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfo.cs
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.pdb

@@ -1,0 +1,11 @@
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.deps.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.runtimeconfig.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.runtimeconfig.dev.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.pdb
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.csprojAssemblyReference.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.csproj.CoreCompileInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.AssemblyInfoInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.AssemblyInfo.cs
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.pdb

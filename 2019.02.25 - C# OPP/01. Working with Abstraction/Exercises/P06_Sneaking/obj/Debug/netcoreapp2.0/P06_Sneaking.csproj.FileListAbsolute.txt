@@ -1,0 +1,11 @@
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.deps.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.runtimeconfig.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.runtimeconfig.dev.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.pdb
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.csprojAssemblyReference.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.csproj.CoreCompileInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.AssemblyInfoInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.AssemblyInfo.cs
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\Exercises\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.pdb
