@@ -9,46 +9,16 @@
             var reservationInfo = Console.ReadLine().Split(new string[] { " " }, StringSplitOptions.RemoveEmptyEntries);
 
             decimal pricePerDay = decimal.Parse(reservationInfo[0]);
-            int numberOfDays = int.Parse(reservationInfo[1]);
-            Season season = new Season();
-            switch (reservationInfo[2])
-            {
-                case "Summer":
-                    season = Season.Summer;
-                    break;
-                case "Winter":
-                    season = Season.Winter;
-                    break;
-                case "Spring":
-                    season = Season.Spring;
-                    break;
-                case "Autumn":
-                    season = Season.Autumn;
-                    break;
-            }
+            int days = int.Parse(reservationInfo[1]);
+            Season season = Enum.Parse<Season>(reservationInfo[2]);
+            Discount discount = Discount.None;
 
-            Discount discount = new Discount();
             if (reservationInfo.Length == 4)
             {
-                switch (reservationInfo[3])
-                {
-                    case "None":
-                        discount = Discount.None;
-                        break;
-                    case "SecondVisit":
-                        discount = Discount.SecondVisit;
-                        break;
-                    case "VIP":
-                        discount = Discount.VIP;
-                        break;
-                }
-            }
-            else
-            {
-                discount = Discount.None;
+                discount = Enum.Parse<Discount>(reservationInfo[3]);
             }
 
-            Console.WriteLine($"{PriceCalculator.CalculatePrice(pricePerDay, numberOfDays, season, discount):F2}");
+            Console.WriteLine($"{PriceCalculator.CalculatePrice(pricePerDay, days, season, discount):F2}");
         }
     }
 }

@@ -6,7 +6,7 @@
     {
         public string Read()
         {
-            return Console.ReadLine();
+            return Console.ReadLine(); // Read input from console
         }
     }
 }

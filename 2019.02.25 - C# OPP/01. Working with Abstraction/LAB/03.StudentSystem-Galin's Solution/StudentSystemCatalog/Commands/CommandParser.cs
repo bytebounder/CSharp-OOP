@@ -6,7 +6,7 @@
     {
         public Command Parse(string command)
         {
-            var parts = command.Split();
+            var parts = command.Split(); // Split input to several parts
 
             return new Command
             {

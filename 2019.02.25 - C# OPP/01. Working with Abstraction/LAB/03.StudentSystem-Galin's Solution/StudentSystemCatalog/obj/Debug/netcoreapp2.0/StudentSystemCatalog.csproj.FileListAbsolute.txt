@@ -1,0 +1,11 @@
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\LAB\03.StudentSystem-Galin's Solution\StudentSystemCatalog\bin\Debug\netcoreapp2.0\StudentSystemCatalog.deps.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\LAB\03.StudentSystem-Galin's Solution\StudentSystemCatalog\bin\Debug\netcoreapp2.0\StudentSystemCatalog.runtimeconfig.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\LAB\03.StudentSystem-Galin's Solution\StudentSystemCatalog\bin\Debug\netcoreapp2.0\StudentSystemCatalog.runtimeconfig.dev.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\LAB\03.StudentSystem-Galin's Solution\StudentSystemCatalog\bin\Debug\netcoreapp2.0\StudentSystemCatalog.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\LAB\03.StudentSystem-Galin's Solution\StudentSystemCatalog\bin\Debug\netcoreapp2.0\StudentSystemCatalog.pdb
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\LAB\03.StudentSystem-Galin's Solution\StudentSystemCatalog\obj\Debug\netcoreapp2.0\StudentSystemCatalog.csprojAssemblyReference.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\LAB\03.StudentSystem-Galin's Solution\StudentSystemCatalog\obj\Debug\netcoreapp2.0\StudentSystemCatalog.csproj.CoreCompileInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\LAB\03.StudentSystem-Galin's Solution\StudentSystemCatalog\obj\Debug\netcoreapp2.0\StudentSystemCatalog.AssemblyInfoInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\LAB\03.StudentSystem-Galin's Solution\StudentSystemCatalog\obj\Debug\netcoreapp2.0\StudentSystemCatalog.AssemblyInfo.cs
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\LAB\03.StudentSystem-Galin's Solution\StudentSystemCatalog\obj\Debug\netcoreapp2.0\StudentSystemCatalog.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\01. Working with Abstraction\LAB\03.StudentSystem-Galin's Solution\StudentSystemCatalog\obj\Debug\netcoreapp2.0\StudentSystemCatalog.pdb
