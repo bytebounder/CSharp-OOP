@@ -1,7 +1,7 @@
-﻿namespace PersonsInfo
-{
-    using System;
+﻿using System;
 
+namespace PersonsInfo
+{
     public class Person
     {
         private string firstName;
