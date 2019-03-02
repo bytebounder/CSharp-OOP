@@ -6,48 +6,107 @@
 <table>
 <tr>
   <th>
+   <p align="center">
     №
   </th>
   <th>
+   <p align="center">
     :books:Lection
   </th>
   <th>
+   <p align="center">
     :pencil:Lab
   </th>
   <th>
-    Exercise:pencil:
+   <p align="center">
+   :pencil:Exercise
   </th>
 </tr>
   
-<tr>
+  <tr>
   <td>
+   <p align="center">
     :one:
   </td>
   <th>
     Working with Abstraction
   </th>
   <td>
-   💻 - <a href="https://github.com/ErayErol/CSharp-OOP/tree/master/2019.02.25%20-%20C%23%20OPP/01.%20Working%20with%20Abstraction/LAB" >:link:</a>
+   <p align="center">
+      <a 
+         href="https://github.com/ErayErol/CSharp-OOP/tree/master/2019.02.25%20-%20C%23%20OPP/01.%20Working%20with%20Abstraction/LAB">✅
+   </a>
   </td>
   <td> 
-      💻 -
-          <a href="" >:link:</a>
+   <p align="center">
+         <a 
+         href="">✅
+   </a>
   </td>
 </tr>
-  
+    
 <tr>
   <td>
+   <p align="center">
     :two:
   </td>
   <th>
     Encapsulation
   </th>
   <td>
-      💻 - 
-          <a href="" >:link:</a>
+   <p align="center">
+      <a 
+         href="https://github.com/ErayErol/CSharp-OOP/tree/master/2019.02.25%20-%20C%23%20OPP/01.%20Working%20with%20Abstraction/LAB">✅
+   </a>
   </td>
   <td> 
-      💻 - 
-          <a href="" >:link:</a>
+   <p align="center">
+         <a 
+         href="">✅
+   </a>
+  </td>
+</tr>
+
+    <tr>
+  <td>
+   <p align="center">
+    :two:
+  </td>
+  <th>
+    Encapsulation
+  </th>
+  <td>
+   <p align="center">
+      <a 
+         href="">✅
+   </a>
+  </td>
+  <td> 
+   <p align="center">
+         <a 
+         href="">✅
+   </a>
+  </td>
+</tr>
+
+    <tr>
+  <td>
+   <p align="center">
+    :three:
+  </td>
+  <th>
+    Inheritance
+  </th>
+  <td>
+   <p align="center">
+      <a 
+         href="">✅
+   </a>
+  </td>
+  <td> 
+   <p align="center">
+         <a 
+         href="">✅
+   </a>
   </td>
 </tr>
