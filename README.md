@@ -23,7 +23,7 @@
   </th>
 </tr>
   
-  <tr>
+<tr>
   <td>
    <p align="center">
     :one:
@@ -56,7 +56,7 @@
   <td>
    <p align="center">
       <a 
-         href="https://github.com/ErayErol/CSharp-OOP/tree/master/2019.02.25%20-%20C%23%20OPP/01.%20Working%20with%20Abstraction/LAB">✅
+         href="">✅
    </a>
   </td>
   <td> 
@@ -67,13 +67,13 @@
   </td>
 </tr>
 
-    <tr>
+<tr>
   <td>
    <p align="center">
-    :two:
+    :three:
   </td>
   <th>
-    Encapsulation
+    Inheritance
   </th>
   <td>
    <p align="center">
@@ -89,13 +89,13 @@
   </td>
 </tr>
 
-    <tr>
+<tr>
   <td>
    <p align="center">
-    :three:
+    :four:
   </td>
   <th>
-    Inheritance
+    Interfaces and Abstraction
   </th>
   <td>
    <p align="center">
