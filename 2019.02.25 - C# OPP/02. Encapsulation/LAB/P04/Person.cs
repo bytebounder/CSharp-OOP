@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace PersonsInfo
+﻿namespace PersonsInfo
 {
+    using System;
+
     public class Person
     {
         private string firstName;
@@ -68,24 +68,5 @@ namespace PersonsInfo
                 this.salary = value;
             }
         }
-
-        public void IncreaseSalary(decimal percent)
-        {
-            if (this.Age > 30)
-            {
-                this.Salary += this.Salary * percent / 100;
-
-            }
-            else
-            {
-                this.Salary += this.Salary * percent / 200;
-            }
-        }
-
-        public override string ToString()
-        {
-            return $"{this.FirstName} {this.LastName} receives {this.Salary:F2} leva.";
-        }
-
     }
 }
