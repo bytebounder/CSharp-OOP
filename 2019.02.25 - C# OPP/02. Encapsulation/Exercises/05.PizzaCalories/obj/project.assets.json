@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aris\\source\\repos\\SoftUni\\CSharp-OOP\\2019.02.25 - C# OPP\\02. Encapsulation\\LAB\\P04\\PersonsInfo.csproj",
-      "projectName": "PersonsInfo",
-      "projectPath": "C:\\Users\\Aris\\source\\repos\\SoftUni\\CSharp-OOP\\2019.02.25 - C# OPP\\02. Encapsulation\\LAB\\P04\\PersonsInfo.csproj",
+      "projectUniqueName": "C:\\Users\\Aris\\source\\repos\\SoftUni\\CSharp-OOP\\2019.02.25 - C# OPP\\02. Encapsulation\\Exercises\\05.PizzaCalories\\05.PizzaCalories.csproj",
+      "projectName": "05.PizzaCalories",
+      "projectPath": "C:\\Users\\Aris\\source\\repos\\SoftUni\\CSharp-OOP\\2019.02.25 - C# OPP\\02. Encapsulation\\Exercises\\05.PizzaCalories\\05.PizzaCalories.csproj",
       "packagesPath": "C:\\Users\\Aris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aris\\source\\repos\\SoftUni\\CSharp-OOP\\2019.02.25 - C# OPP\\02. Encapsulation\\LAB\\P04\\obj\\",
+      "outputPath": "C:\\Users\\Aris\\source\\repos\\SoftUni\\CSharp-OOP\\2019.02.25 - C# OPP\\02. Encapsulation\\Exercises\\05.PizzaCalories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

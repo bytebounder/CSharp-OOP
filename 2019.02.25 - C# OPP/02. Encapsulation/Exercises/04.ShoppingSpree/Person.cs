@@ -18,10 +18,7 @@
 
         public string Name
         {
-            get
-            {
-                return this.name;
-            }
+            get => this.name;
 
             set
             {
@@ -36,10 +33,7 @@
 
         public decimal Money
         {
-            get
-            {
-                return this.money;
-            }
+            get => this.money;
 
             set
             {
@@ -52,13 +46,7 @@
             }
         }
 
-        public List<Product> Products
-        {
-            get
-            {
-                return this.products;
-            }
-        }
+        public List<Product> Products => this.products;
 
         public string BuyProduct(Product product)
         {

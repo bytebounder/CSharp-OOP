@@ -1,0 +1,11 @@
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\05.PizzaCalories\bin\Debug\netcoreapp2.1\05.PizzaCalories.deps.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\05.PizzaCalories\bin\Debug\netcoreapp2.1\05.PizzaCalories.runtimeconfig.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\05.PizzaCalories\bin\Debug\netcoreapp2.1\05.PizzaCalories.runtimeconfig.dev.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\05.PizzaCalories\bin\Debug\netcoreapp2.1\05.PizzaCalories.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\05.PizzaCalories\bin\Debug\netcoreapp2.1\05.PizzaCalories.pdb
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\05.PizzaCalories\obj\Debug\netcoreapp2.1\05.PizzaCalories.csprojAssemblyReference.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\05.PizzaCalories\obj\Debug\netcoreapp2.1\05.PizzaCalories.csproj.CoreCompileInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\05.PizzaCalories\obj\Debug\netcoreapp2.1\05.PizzaCalories.AssemblyInfoInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\05.PizzaCalories\obj\Debug\netcoreapp2.1\05.PizzaCalories.AssemblyInfo.cs
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\05.PizzaCalories\obj\Debug\netcoreapp2.1\05.PizzaCalories.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\05.PizzaCalories\obj\Debug\netcoreapp2.1\05.PizzaCalories.pdb

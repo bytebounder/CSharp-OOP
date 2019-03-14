@@ -15,33 +15,26 @@
             this.height = height;
         }
 
-        public double GetSurfaceArea()
+        private double CalculateSurfaceArea()
         {
-            double surfaceArea = 2 * this.length * this.width + 2 * this.length * this.height +
-                                 2 * this.width * this.height;
-
-            return surfaceArea;
+            return 2 * (this.width * this.length) + CalculateLateralSurfaceArea();
         }
 
-        public double GetLateralSurfaceArea()
+        private double CalculateLateralSurfaceArea()
         {
-            double lateralSurfaceArea = 2 * this.length * this.height + 2 * this.width * this.height;
-
-            return lateralSurfaceArea;
+            return 2 * (this.length * this.height + this.width * this.height);
         }
 
-        public double GetVolume()
+        private double CalculateVolume()
         {
-            double volume = this.length * this.width * this.height;
-
-            return volume;
+            return this.length * this.width * this.height;
         }
 
         public override string ToString()
         {
-            return $"Surface Area - {GetSurfaceArea():F2}" + Environment.NewLine +
-                   $"Lateral Surface Area - {GetLateralSurfaceArea():F2}" + Environment.NewLine +
-                   $"Volume - {GetVolume():F2}";
+            return $"Surface Area - {CalculateSurfaceArea():F2}" + Environment.NewLine +
+                   $"Lateral Surface Area - {CalculateLateralSurfaceArea():F2}" + Environment.NewLine +
+                   $"Volume - {CalculateVolume():F2}";
         }
     }
 }

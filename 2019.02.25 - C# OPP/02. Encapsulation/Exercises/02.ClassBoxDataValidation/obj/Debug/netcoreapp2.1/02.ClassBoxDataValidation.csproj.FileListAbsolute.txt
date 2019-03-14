@@ -9,3 +9,14 @@ C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulat
 C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation.pptx\Exercises\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.1\02.ClassBoxDataValidation.AssemblyInfo.cs
 C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation.pptx\Exercises\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.1\02.ClassBoxDataValidation.dll
 C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation.pptx\Exercises\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.1\02.ClassBoxDataValidation.pdb
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\02.ClassBoxDataValidation\bin\Debug\netcoreapp2.1\02.ClassBoxDataValidation.deps.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\02.ClassBoxDataValidation\bin\Debug\netcoreapp2.1\02.ClassBoxDataValidation.runtimeconfig.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\02.ClassBoxDataValidation\bin\Debug\netcoreapp2.1\02.ClassBoxDataValidation.runtimeconfig.dev.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\02.ClassBoxDataValidation\bin\Debug\netcoreapp2.1\02.ClassBoxDataValidation.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\02.ClassBoxDataValidation\bin\Debug\netcoreapp2.1\02.ClassBoxDataValidation.pdb
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.1\02.ClassBoxDataValidation.csprojAssemblyReference.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.1\02.ClassBoxDataValidation.csproj.CoreCompileInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.1\02.ClassBoxDataValidation.AssemblyInfoInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.1\02.ClassBoxDataValidation.AssemblyInfo.cs
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.1\02.ClassBoxDataValidation.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.1\02.ClassBoxDataValidation.pdb

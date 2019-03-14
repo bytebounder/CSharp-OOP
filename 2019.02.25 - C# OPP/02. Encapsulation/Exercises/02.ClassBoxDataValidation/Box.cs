@@ -17,73 +17,62 @@
 
         public double Length
         {
-            get => length;
+            get => this.length;
             set
             {
-                if (value <= 0)
-                {
-                    throw new ArgumentException("Length cannot be zero or negative.");
-                }
-
+                ValidateParameter(value, nameof(this.Length));
                 this.length = value;
             }
         }
 
         public double Width
         {
-            get => width;
+            get => this.width;
             set
             {
-                if (value <= 0)
-                {
-                    throw new ArgumentException("Width cannot be zero or negative.");
-                }
-
+                ValidateParameter(value, nameof(this.Width));
                 this.width = value;
             }
         }
 
         public double Height
         {
-            get => height;
+            get => this.height;
             set
             {
-                if (value <= 0)
-                {
-                    throw new ArgumentException("Height cannot be zero or negative.");
-                }
-
+                ValidateParameter(value, nameof(this.Height));
                 this.height = value;
             }
         }
 
-        public double GetSurfaceArea()
+        private double CalculateSurfaceArea()
         {
-            double surfaceArea = 2 * this.Length * this.Width + 2 * this.Length * this.Height +
-                                 2 * this.Width * this.Height;
-
-            return surfaceArea;
+            return 2 * (this.width * this.length) + CalculateLateralSurfaceArea();
         }
 
-        public double GetLateralSurfaceArea()
+        private double CalculateLateralSurfaceArea()
         {
-            double lateralSurfaceArea = 2 * this.Length * this.Height + 2 * this.Width * this.Height;
-
-            return lateralSurfaceArea;
+            return 2 * (this.length * this.height + this.width * this.height);
         }
 
-        public double GetVolume()
+        private double CalculateVolume()
         {
-            double volume = this.Length * this.Width * this.Height;
+            return this.length * this.width * this.height;
+        }
 
-            return volume;
+        private void ValidateParameter(double value, string parameters)
+        {
+            if (value <= 0)
+            {
+                throw new ArgumentException($"{parameters} cannot be zero or negative.");
+            }
         }
 
         public override string ToString()
         {
-            return $"Surface Area - {GetSurfaceArea():F2}" + Environment.NewLine +
-                   $"Lateral Surface Area - {GetLateralSurfaceArea():F2}" + Environment.NewLine +
-                   $"Volume - {GetVolume():F2}";
+            return $"Surface Area - {CalculateSurfaceArea():F2}" + Environment.NewLine +
+                   $"Lateral Surface Area - {CalculateLateralSurfaceArea():F2}" + Environment.NewLine +
+                   $"Volume - {CalculateVolume():F2}";
         }
     }
 }

@@ -15,10 +15,7 @@
 
         public string Name
         {
-            get
-            {
-                return this.name;
-            }
+            get => this.name;
 
             set
             {
@@ -33,10 +30,7 @@
 
         public decimal Cost
         {
-            get
-            {
-                return this.cost;
-            }
+            get => this.cost;
 
             set
             {

@@ -26,6 +26,8 @@
                 {
                     throw new ArgumentException("First name cannot contain fewer than 3 symbols!");
                 }
+
+                this.firstName = value;
             }
         }
 
@@ -38,6 +40,8 @@
                 {
                     throw new ArgumentException("Last name cannot contain fewer than 3 symbols!");
                 }
+
+                this.lastName = value;
             }
         }
 

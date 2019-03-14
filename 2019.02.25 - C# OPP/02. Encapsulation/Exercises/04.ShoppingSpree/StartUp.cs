@@ -11,18 +11,18 @@
             var people = new List<Person>();
             var products = new List<Product>();
 
-            var firstLine = Console.ReadLine()
+            var inputPeople = Console.ReadLine()
                 .Split(new[] { ';', '=' }
                     , StringSplitOptions.RemoveEmptyEntries);
 
-            var secondLine = Console.ReadLine()
+            var inputProduct = Console.ReadLine()
                 .Split(new[] { ';', '=' }
                     , StringSplitOptions.RemoveEmptyEntries);
 
-            for (int i = 0; i < firstLine.Length; i += 2)
+            for (int i = 0; i < inputPeople.Length; i += 2)
             {
-                string name = firstLine[i];
-                decimal money = decimal.Parse(firstLine[i + 1]);
+                string name = inputPeople[i];
+                decimal money = decimal.Parse(inputPeople[i + 1]);
 
                 try
                 {
@@ -37,10 +37,10 @@
                 }
             }
 
-            for (int i = 0; i < secondLine.Length; i += 2)
+            for (int i = 0; i < inputProduct.Length; i += 2)
             {
-                string name = secondLine[i];
-                decimal cost = decimal.Parse(secondLine[i + 1]);
+                string name = inputProduct[i];
+                decimal cost = decimal.Parse(inputProduct[i + 1]);
 
                 try
                 {

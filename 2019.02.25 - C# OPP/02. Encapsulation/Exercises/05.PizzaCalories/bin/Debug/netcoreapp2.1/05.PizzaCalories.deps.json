@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "PersonsInfo/1.0.0": {
+      "05.PizzaCalories/1.0.0": {
         "runtime": {
-          "PersonsInfo.dll": {}
+          "05.PizzaCalories.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "PersonsInfo/1.0.0": {
+    "05.PizzaCalories/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aris\\source\\repos\\SoftUni\\CSharp-OOP\\2019.02.25 - C# OPP\\02. Encapsulation.pptx\\Exercises\\01.ClassBox\\01.ClassBox.csproj",
+      "projectUniqueName": "C:\\Users\\Aris\\source\\repos\\SoftUni\\CSharp-OOP\\2019.02.25 - C# OPP\\02. Encapsulation\\Exercises\\01.ClassBox\\01.ClassBox.csproj",
       "projectName": "01.ClassBox",
-      "projectPath": "C:\\Users\\Aris\\source\\repos\\SoftUni\\CSharp-OOP\\2019.02.25 - C# OPP\\02. Encapsulation.pptx\\Exercises\\01.ClassBox\\01.ClassBox.csproj",
+      "projectPath": "C:\\Users\\Aris\\source\\repos\\SoftUni\\CSharp-OOP\\2019.02.25 - C# OPP\\02. Encapsulation\\Exercises\\01.ClassBox\\01.ClassBox.csproj",
       "packagesPath": "C:\\Users\\Aris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aris\\source\\repos\\SoftUni\\CSharp-OOP\\2019.02.25 - C# OPP\\02. Encapsulation.pptx\\Exercises\\01.ClassBox\\obj\\",
+      "outputPath": "C:\\Users\\Aris\\source\\repos\\SoftUni\\CSharp-OOP\\2019.02.25 - C# OPP\\02. Encapsulation\\Exercises\\01.ClassBox\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

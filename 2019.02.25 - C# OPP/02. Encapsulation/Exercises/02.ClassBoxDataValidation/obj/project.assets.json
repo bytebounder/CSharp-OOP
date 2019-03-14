@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aris\\source\\repos\\SoftUni\\CSharp-OOP\\2019.02.25 - C# OPP\\02. Encapsulation.pptx\\Exercises\\02.ClassBoxDataValidation\\02.ClassBoxDataValidation.csproj",
+      "projectUniqueName": "C:\\Users\\Aris\\source\\repos\\SoftUni\\CSharp-OOP\\2019.02.25 - C# OPP\\02. Encapsulation\\Exercises\\02.ClassBoxDataValidation\\02.ClassBoxDataValidation.csproj",
       "projectName": "02.ClassBoxDataValidation",
-      "projectPath": "C:\\Users\\Aris\\source\\repos\\SoftUni\\CSharp-OOP\\2019.02.25 - C# OPP\\02. Encapsulation.pptx\\Exercises\\02.ClassBoxDataValidation\\02.ClassBoxDataValidation.csproj",
+      "projectPath": "C:\\Users\\Aris\\source\\repos\\SoftUni\\CSharp-OOP\\2019.02.25 - C# OPP\\02. Encapsulation\\Exercises\\02.ClassBoxDataValidation\\02.ClassBoxDataValidation.csproj",
       "packagesPath": "C:\\Users\\Aris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aris\\source\\repos\\SoftUni\\CSharp-OOP\\2019.02.25 - C# OPP\\02. Encapsulation.pptx\\Exercises\\02.ClassBoxDataValidation\\obj\\",
+      "outputPath": "C:\\Users\\Aris\\source\\repos\\SoftUni\\CSharp-OOP\\2019.02.25 - C# OPP\\02. Encapsulation\\Exercises\\02.ClassBoxDataValidation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

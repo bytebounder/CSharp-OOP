@@ -13,15 +13,12 @@
             try
             {
                 Chicken chicken = new Chicken(name, age);
-                Console.WriteLine(
-                    "Chicken {0} (age {1}) can produce {2} eggs per day.",
-                    chicken.Name,
-                    chicken.Age,
-                    chicken.ProductPerDay);
+
+                Console.WriteLine(chicken);
             }
-            catch (ArgumentException argumentException)
+            catch (ArgumentException exception)
             {
-                Console.WriteLine(argumentException.Message);
+                Console.WriteLine(exception.Message);
             }
         }
     }

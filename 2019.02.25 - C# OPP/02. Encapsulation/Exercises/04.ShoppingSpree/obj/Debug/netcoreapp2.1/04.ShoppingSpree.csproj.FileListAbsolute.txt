@@ -9,3 +9,14 @@ C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulat
 C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation.pptx\Exercises\04.ShoppingSpree\obj\Debug\netcoreapp2.1\04.ShoppingSpree.AssemblyInfo.cs
 C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation.pptx\Exercises\04.ShoppingSpree\obj\Debug\netcoreapp2.1\04.ShoppingSpree.dll
 C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation.pptx\Exercises\04.ShoppingSpree\obj\Debug\netcoreapp2.1\04.ShoppingSpree.pdb
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\04.ShoppingSpree\bin\Debug\netcoreapp2.1\04.ShoppingSpree.deps.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\04.ShoppingSpree\bin\Debug\netcoreapp2.1\04.ShoppingSpree.runtimeconfig.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\04.ShoppingSpree\bin\Debug\netcoreapp2.1\04.ShoppingSpree.runtimeconfig.dev.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\04.ShoppingSpree\bin\Debug\netcoreapp2.1\04.ShoppingSpree.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\04.ShoppingSpree\bin\Debug\netcoreapp2.1\04.ShoppingSpree.pdb
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\04.ShoppingSpree\obj\Debug\netcoreapp2.1\04.ShoppingSpree.csprojAssemblyReference.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\04.ShoppingSpree\obj\Debug\netcoreapp2.1\04.ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\04.ShoppingSpree\obj\Debug\netcoreapp2.1\04.ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\04.ShoppingSpree\obj\Debug\netcoreapp2.1\04.ShoppingSpree.AssemblyInfo.cs
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\04.ShoppingSpree\obj\Debug\netcoreapp2.1\04.ShoppingSpree.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\02. Encapsulation\Exercises\04.ShoppingSpree\obj\Debug\netcoreapp2.1\04.ShoppingSpree.pdb
