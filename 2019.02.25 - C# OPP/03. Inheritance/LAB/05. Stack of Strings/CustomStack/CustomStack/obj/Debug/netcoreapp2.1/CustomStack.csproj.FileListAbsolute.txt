@@ -1,0 +1,11 @@
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\05. Stack of Strings\CustomStack\CustomStack\bin\Debug\netcoreapp2.1\CustomStack.deps.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\05. Stack of Strings\CustomStack\CustomStack\bin\Debug\netcoreapp2.1\CustomStack.runtimeconfig.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\05. Stack of Strings\CustomStack\CustomStack\bin\Debug\netcoreapp2.1\CustomStack.runtimeconfig.dev.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\05. Stack of Strings\CustomStack\CustomStack\bin\Debug\netcoreapp2.1\CustomStack.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\05. Stack of Strings\CustomStack\CustomStack\bin\Debug\netcoreapp2.1\CustomStack.pdb
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\05. Stack of Strings\CustomStack\CustomStack\obj\Debug\netcoreapp2.1\CustomStack.csprojAssemblyReference.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\05. Stack of Strings\CustomStack\CustomStack\obj\Debug\netcoreapp2.1\CustomStack.csproj.CoreCompileInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\05. Stack of Strings\CustomStack\CustomStack\obj\Debug\netcoreapp2.1\CustomStack.AssemblyInfoInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\05. Stack of Strings\CustomStack\CustomStack\obj\Debug\netcoreapp2.1\CustomStack.AssemblyInfo.cs
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\05. Stack of Strings\CustomStack\CustomStack\obj\Debug\netcoreapp2.1\CustomStack.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\05. Stack of Strings\CustomStack\CustomStack\obj\Debug\netcoreapp2.1\CustomStack.pdb

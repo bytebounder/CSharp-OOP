@@ -1,0 +1,11 @@
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\02. Multiple Inheritance\Farm\Farm\bin\Debug\netcoreapp2.1\Farm.deps.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\02. Multiple Inheritance\Farm\Farm\bin\Debug\netcoreapp2.1\Farm.runtimeconfig.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\02. Multiple Inheritance\Farm\Farm\bin\Debug\netcoreapp2.1\Farm.runtimeconfig.dev.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\02. Multiple Inheritance\Farm\Farm\bin\Debug\netcoreapp2.1\Farm.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\02. Multiple Inheritance\Farm\Farm\bin\Debug\netcoreapp2.1\Farm.pdb
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\02. Multiple Inheritance\Farm\Farm\obj\Debug\netcoreapp2.1\Farm.csprojAssemblyReference.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\02. Multiple Inheritance\Farm\Farm\obj\Debug\netcoreapp2.1\Farm.csproj.CoreCompileInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\02. Multiple Inheritance\Farm\Farm\obj\Debug\netcoreapp2.1\Farm.AssemblyInfoInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\02. Multiple Inheritance\Farm\Farm\obj\Debug\netcoreapp2.1\Farm.AssemblyInfo.cs
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\02. Multiple Inheritance\Farm\Farm\obj\Debug\netcoreapp2.1\Farm.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\02. Multiple Inheritance\Farm\Farm\obj\Debug\netcoreapp2.1\Farm.pdb

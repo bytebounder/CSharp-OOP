@@ -1,0 +1,11 @@
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\04. Random List\CustomRandomList\CustomRandomList\bin\Debug\netcoreapp2.1\CustomRandomList.deps.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\04. Random List\CustomRandomList\CustomRandomList\bin\Debug\netcoreapp2.1\CustomRandomList.runtimeconfig.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\04. Random List\CustomRandomList\CustomRandomList\bin\Debug\netcoreapp2.1\CustomRandomList.runtimeconfig.dev.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\04. Random List\CustomRandomList\CustomRandomList\bin\Debug\netcoreapp2.1\CustomRandomList.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\04. Random List\CustomRandomList\CustomRandomList\bin\Debug\netcoreapp2.1\CustomRandomList.pdb
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\04. Random List\CustomRandomList\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.csprojAssemblyReference.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\04. Random List\CustomRandomList\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.csproj.CoreCompileInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\04. Random List\CustomRandomList\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.AssemblyInfoInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\04. Random List\CustomRandomList\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.AssemblyInfo.cs
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\04. Random List\CustomRandomList\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\LAB\04. Random List\CustomRandomList\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.pdb
