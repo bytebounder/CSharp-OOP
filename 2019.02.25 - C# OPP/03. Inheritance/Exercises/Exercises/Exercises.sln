@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Person", "01.Person\01.Person.csproj", "{33AED7E5-B4EF-4B33-BFCF-B36AD6FDC1C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Person", "01.Person\01.Person.csproj", "{33AED7E5-B4EF-4B33-BFCF-B36AD6FDC1C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.BookShop", "02.BookShop\02.BookShop.csproj", "{D33BBB1B-96F7-48EE-B3D8-C75259547105}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.BookShop", "02.BookShop\02.BookShop.csproj", "{D33BBB1B-96F7-48EE-B3D8-C75259547105}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Mankind", "03.Mankind\03.Mankind.csproj", "{4740D4B4-B4A6-4373-AF9F-B2E12513AEA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Mankind", "03.Mankind\03.Mankind.csproj", "{4740D4B4-B4A6-4373-AF9F-B2E12513AEA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.OnlineRadioDatabase", "04.OnlineRadioDatabase\04.OnlineRadioDatabase.csproj", "{32608909-7590-4E8C-9B61-F2F2B7E1CA69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.OnlineRadioDatabase", "04.OnlineRadioDatabase\04.OnlineRadioDatabase.csproj", "{32608909-7590-4E8C-9B61-F2F2B7E1CA69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Mordor'sCruelPlan", "05.Mordor'sCruelPlan\05.Mordor'sCruelPlan.csproj", "{E09AB421-7A39-4057-A36D-0A57059B1ADC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{32608909-7590-4E8C-9B61-F2F2B7E1CA69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32608909-7590-4E8C-9B61-F2F2B7E1CA69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32608909-7590-4E8C-9B61-F2F2B7E1CA69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E09AB421-7A39-4057-A36D-0A57059B1ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E09AB421-7A39-4057-A36D-0A57059B1ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E09AB421-7A39-4057-A36D-0A57059B1ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E09AB421-7A39-4057-A36D-0A57059B1ADC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
