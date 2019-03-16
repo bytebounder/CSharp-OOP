@@ -1,0 +1,11 @@
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\Exercises\Exercises\03.Mankind\bin\Debug\netcoreapp2.1\03.Mankind.deps.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\Exercises\Exercises\03.Mankind\bin\Debug\netcoreapp2.1\03.Mankind.runtimeconfig.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\Exercises\Exercises\03.Mankind\bin\Debug\netcoreapp2.1\03.Mankind.runtimeconfig.dev.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\Exercises\Exercises\03.Mankind\bin\Debug\netcoreapp2.1\03.Mankind.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\Exercises\Exercises\03.Mankind\bin\Debug\netcoreapp2.1\03.Mankind.pdb
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\Exercises\Exercises\03.Mankind\obj\Debug\netcoreapp2.1\03.Mankind.csprojAssemblyReference.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\Exercises\Exercises\03.Mankind\obj\Debug\netcoreapp2.1\03.Mankind.csproj.CoreCompileInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\Exercises\Exercises\03.Mankind\obj\Debug\netcoreapp2.1\03.Mankind.AssemblyInfoInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\Exercises\Exercises\03.Mankind\obj\Debug\netcoreapp2.1\03.Mankind.AssemblyInfo.cs
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\Exercises\Exercises\03.Mankind\obj\Debug\netcoreapp2.1\03.Mankind.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\Exercises\Exercises\03.Mankind\obj\Debug\netcoreapp2.1\03.Mankind.pdb

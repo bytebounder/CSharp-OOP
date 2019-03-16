@@ -1,0 +1,11 @@
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\Exercises\Exercises\01.Person\bin\Debug\netcoreapp2.1\01.Person.deps.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\Exercises\Exercises\01.Person\bin\Debug\netcoreapp2.1\01.Person.runtimeconfig.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\Exercises\Exercises\01.Person\bin\Debug\netcoreapp2.1\01.Person.runtimeconfig.dev.json
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\Exercises\Exercises\01.Person\bin\Debug\netcoreapp2.1\01.Person.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\Exercises\Exercises\01.Person\bin\Debug\netcoreapp2.1\01.Person.pdb
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\Exercises\Exercises\01.Person\obj\Debug\netcoreapp2.1\01.Person.csprojAssemblyReference.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\Exercises\Exercises\01.Person\obj\Debug\netcoreapp2.1\01.Person.csproj.CoreCompileInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\Exercises\Exercises\01.Person\obj\Debug\netcoreapp2.1\01.Person.AssemblyInfoInputs.cache
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\Exercises\Exercises\01.Person\obj\Debug\netcoreapp2.1\01.Person.AssemblyInfo.cs
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\Exercises\Exercises\01.Person\obj\Debug\netcoreapp2.1\01.Person.dll
+C:\Users\Aris\source\repos\SoftUni\CSharp-OOP\2019.02.25 - C# OPP\03. Inheritance\Exercises\Exercises\01.Person\obj\Debug\netcoreapp2.1\01.Person.pdb
