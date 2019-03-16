@@ -1,12 +1,13 @@
-﻿using System;
-
-namespace _04.OnlineRadioDatabase
+﻿namespace _04.OnlineRadioDatabase
 {
-    class StartUp
+    using _04.OnlineRadioDatabase.Core;
+
+    public class StartUp
     {
         static void Main(string[] args)
         {
-
+            Engine engine = new Engine();
+            engine.Run();
         }
     }
 }
